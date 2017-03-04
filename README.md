@@ -11,6 +11,10 @@ Still confused? Click "Get Started" above.
 
 ## Changelist
 
+1.1.2
+  - Enable comments keyboard shortcut in unoproj files
+  - Auto-close of brackets and parenthesis in unoproj files
+
 1.1.1
   - Fix comments in the UX files
 
